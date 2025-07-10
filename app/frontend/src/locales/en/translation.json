@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "Career Compass",
+    "headerTitle": "Career Compass",
     "chat": "Chat",
     "qa": "Ask a question",
     "login": "Login",
@@ -34,20 +34,20 @@
     },
     "developerSettings": "Developer settings",
 
-    "chatEmptyStateTitle": "Chat with your data",
+    "chatEmptyStateTitle": "Explore Careers in Healthcare",
     "chatEmptyStateSubtitle": "Ask anything or try an example",
     "defaultExamples": {
-        "1": "What is included in my Northwind Health Plus plan that is not in standard?",
-        "2": "What happens in a performance review?",
-        "3": "What does a Product Manager do?",
-        "placeholder": "Type a new question (e.g. does my plan cover annual eye exams?)"
+        "1": "What does a day in the life of a registered nurse look like?",
+        "2": "Compare the roles of a Physician Assistant and a Nurse Practitioner.",
+        "3": "What is the typical career progression for a physical therapist?",
+        "placeholder": "I'm interested in..."
     },
-    "askTitle": "Ask your data",
+    "askTitle": "Ask about healthcare careers",
     "gpt4vExamples": {
-        "1": "Compare the impact of interest rates and GDP in financial markets.",
-        "2": "What is the expected trend for the S&P 500 index over the next five years? Compare it to the past S&P 500 performance",
-        "3": "Can you identify any correlation between oil prices and stock market trends?",
-        "placeholder": "Example: Does my plan cover annual eye exams?"
+        "1": "How is AI expected to change the field of radiology in the next decade?",
+        "2": "What are the key differences in responsibility between a floor nurse and a charge nurse?",
+        "3": "Describe the ethical considerations a clinical research coordinator manages.",
+        "placeholder": "e.g., summarize the future outlook for diagnostic medical sonographers."
     },
     "generatingAnswer": "Generating answer",
     "citationWithColon": "Citation:",
